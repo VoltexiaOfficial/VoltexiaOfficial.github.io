@@ -10,10 +10,18 @@
                 "type": 1,
                 "components": [
                     {
+                        "type": 10,
+                        "content": ":arrow_right::arrow_right::arrow_right::arrow_right:"
+                    },
+                    {
                         "type": 2,
                         "style": 5,
                         "label": "Server invite (Also in ad above)",
                         "url": "https://discord.gg/uHctnRF2nn"
+                    },
+                    {
+                        "type": 10,
+                        "content": ":arrow_left::arrow_left::arrow_left::arrow_left:"
                     }
                 ]
             }
