@@ -1,0 +1,22 @@
+{
+    "component": {
+        "type": 17,
+        "components": [
+            {
+                "type": 10,
+                "content": "```markdown\n# VOLTEXIA\n## MINECRAFT'S NEW GAMEMODE HUB\n\nSpecial gamemodes which have never been seen before along with normal gamemodes!\n\n## Anarchy\n* **No rules**\n* **Raid as much as you want**\n* **Or make your team amongst the war**\n\n## Civilization *(Upcoming)*\n* **Join a civilization**\n* **Or make your own**\n* **Complete with phones, cars, and trains, which are all functional**\n\n# NEW!\n## **FREE MINECRAFT HOSTING**\n**Whether you want to pay cheap for Ryzen 7 or 9, or want to watch ads for Ryzen 7 or 9, here is the place, Ryzen 7 is so cheap that for a good 4GB ram server, its not even 1$, and if you don't want to pay, just watch ads!**\n\n[Join here!](https://discord.gg/uHctnRF2nn)\n```"
+            },
+            {
+                "type": 1,
+                "components": [
+                    {
+                        "type": 2,
+                        "style": 5,
+                        "label": "Server invite (Also in ad above)",
+                        "url": "https://discord.gg/uHctnRF2nn"
+                    }
+                ]
+            }
+        ]
+    }
+}
